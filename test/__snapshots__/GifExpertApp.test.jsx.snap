@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifExpertApp /> Debe hacer match con el es snapshot 1`] = `
+<div>
+  <h1>
+    Gif Expert App
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Buscar gift"
+      type="text"
+      value=""
+    />
+  </form>
+  <h3>
+    One Punch
+  </h3>
+  <h1>
+    Cargando...
+  </h1>
+  <div
+    class="card-grid"
+  />
+</div>
+`;
